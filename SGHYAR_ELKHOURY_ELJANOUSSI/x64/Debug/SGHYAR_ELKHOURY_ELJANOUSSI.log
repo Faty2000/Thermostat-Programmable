@@ -1,0 +1,6 @@
+﻿  Automate.cpp
+C:\Users\Faty Sghyar\source\repos\SGHYAR_ELKHOURY_ELJANOUSSI\SGHYAR_ELKHOURY_ELJANOUSSI\Automate.cpp(25,11): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Faty Sghyar\source\repos\SGHYAR_ELKHOURY_ELJANOUSSI\SGHYAR_ELKHOURY_ELJANOUSSI\Automate.cpp(27,11): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Faty Sghyar\source\repos\SGHYAR_ELKHOURY_ELJANOUSSI\SGHYAR_ELKHOURY_ELJANOUSSI\Automate.cpp(29,11): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Faty Sghyar\source\repos\SGHYAR_ELKHOURY_ELJANOUSSI\SGHYAR_ELKHOURY_ELJANOUSSI\Automate.cpp(30,11): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  SGHYAR_ELKHOURY_ELJANOUSSI.vcxproj -> C:\Users\Faty Sghyar\source\repos\SGHYAR_ELKHOURY_ELJANOUSSI\x64\Debug\SGHYAR_ELKHOURY_ELJANOUSSI.exe
